@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Welcome!</string>
+    <string name="app_name">Remote Video Surveliance System </string>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#DFE5E6</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <string-array name="modearray">
+        <item >Day Mode (Video Recording)</item>
+        <item >After Closing Hours(Smart Recording)</item>
+        
+    </string-array>
+    
+    
+    
+</resources>

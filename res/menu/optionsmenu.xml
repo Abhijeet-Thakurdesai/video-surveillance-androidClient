@@ -1,0 +1,14 @@
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/itemSettings" android:title="Settings" android:icon="@drawable/settings"></item>
+        <item android:id="@+id/itemChangeCamera" android:title="Change Camera" android:icon="@drawable/changecamera"></item>
+        <item android:id="@+id/itemChangeMode" android:title="Change Mode" android:icon="@drawable/switchimg"></item>
+        <item android:id="@+id/itemChangeResolution" android:title="Change Resolution" android:icon="@drawable/changecamera"></item>
+        <item android:id="@+id/itemRotate" android:title="Rotate Camera" android:icon="@android:drawable/ic_media_play"></item>
+         <item android:id="@+id/itemPlayAlarm" android:title="Play Alarm" android:icon="@android:drawable/ic_media_play"></item>
+         <item android:id="@+id/itemEmergencyContacts" android:title="Contacts" android:icon="@android:drawable/ic_menu_call"></item>
+         <item android:id="@+id/itemExit" android:title="Exit" android:icon="@drawable/exit"></item>
+         
+         
+    </menu>
+
+       
